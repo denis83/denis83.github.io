@@ -1,5 +1,6 @@
 ---
-layout: default
+title: My Website
+description: Personal website on Github
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
