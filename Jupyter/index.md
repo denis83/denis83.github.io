@@ -1,6 +1,6 @@
 ---
-title: Jupiter Assignments
-description: HW projects developed with Jupyter notebooks
+title: [Jupiter Assignments]
+description: [HW projects developed with Jupyter notebooks]
 ---
 
 Module 2: Basic Graphing Assignment
