@@ -4,7 +4,9 @@ description: Personal website on Github.
 ---
 <img src="profile_pic.jpg" alt="Profile Pic">
 
-### Collection of projects
-[Jupyter Projects](/Jupyter/index.md)
+## Collection of projects
+### [Jupyter Projects](/Jupyter/index.md)
+
+### [Break_out Game Project](https://github.com/denis83/Project_breakout)
 
 
