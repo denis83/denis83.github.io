@@ -7,6 +7,4 @@ description: Personal website on Github.
 ## Collection of projects
 ### [Jupyter Projects](/Jupyter/index.md)
 
-### [Break_out Game Project](https://github.com/denis83/Project_breakout)
-
-
+### [Breakout Game Project](https://github.com/denis83/Project_breakout)
